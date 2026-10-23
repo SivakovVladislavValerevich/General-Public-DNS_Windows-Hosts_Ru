@@ -1,0 +1,75 @@
+# Cloudflare
+1.1.1.1 one.one.one.one
+1.0.0.1 one.one.one.one
+2606:4700:4700::1111
+2606:4700:4700::1001
+
+# Google DNS
+8.8.8.8 dns.google
+8.8.4.4 dns.google
+2001:4860:4860::8888 dns.google
+2001:4860:4860::8844 dns.google
+
+# Quad9
+9.9.9.9 dns.quad9.net
+149.112.112.112 dns.quad9.net
+2620:fe::fe dns.quad9.net
+2620:fe::9 dns.quad9.net
+
+# Yandex.DNS
+77.88.8.8 common.dot.dns.yandex.net
+77.88.8.1 common.dot.dns.yandex.net
+2a02:6b8::feed:0ff common.dot.dns.yandex.net
+2a02:6b8:0:1::feed:0ff common.dot.dns.yandex.net
+
+# Xbox DNS
+111.88.96.54 xbox-dns.ru
+111.88.96.55 xbox-dns.ru
+2a00:ab00:1233:26::50 xbox-dns.ru
+2a00:ab00:1233:26::51 xbox-dns.ru
+
+# OpenDNS Home
+208.67.222.222 opendns.com
+208.67.220.220 opendns.com
+# Family server
+208.67.222.123 opendns.com
+208.67.220.123 opendns.com
+
+2620:119:35::35 opendns.com
+2620:119:53::53 opendns.com
+
+# Verisign
+64.6.64.6 verisign.com
+64.6.65.6 verisign.com
+2620:74:1b::1:1 verisign.com
+2620:74:1c::2:2 verisign.com
+
+# CleanBrowsing
+185.228.168.9 cleanbrowsing.org
+185.228.169.9 cleanbrowsing.org
+2a0d:2a00:1::2 cleanbrowsing.org
+2a0d:2a00:2::2 cleanbrowsing.org
+
+# AdGuard DNS
+# Default Server
+176.103.130.130 adguard-dns.io
+176.103.130.131 adguard-dns.io
+2a00:5a60::ad1:0ff adguard-dns.io
+2a00:5a60::ad2:0ff adguard-dns.io
+# Server without filtering
+94.140.14.14 adguard-dns.io
+94.140.15.15 adguard-dns.io
+2a10:50c0::ad1:ff adguard-dns.io
+2a10:50c0::ad2:ff adguard-dns.io
+# Family server
+94.140.14.15 adguard-dns.io
+94.140.15.16 adguard-dns.io
+2a10:50c0::bad1:ff adguard-dns.io
+2a10:50c0::bad2:ff adguard-dns.io
+
+# Alternate DNS
+44.222.89.164 alternate-dns.com
+198.101.242.72 alternate-dns.com
+23.253.163.53 alternate-dns.com
+2001:4800:780e:510:a8cf:392e:ff04:8982 alternate-dns.com
+2001:4801:7825:103:be76:4eff:fe10:2e49 alternate-dns.com
