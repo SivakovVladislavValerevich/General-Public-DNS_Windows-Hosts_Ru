@@ -39,12 +39,13 @@
 2620:119:53::53 opendns.com
 
 # Verisign
-64.6.64.6 verisign.com
-64.6.65.6 verisign.com
-2620:74:1b::1:1 verisign.com
-2620:74:1c::2:2 verisign.com
+# 64.6.64.6 verisign.com
+# 64.6.65.6 verisign.com
+# 2620:74:1b::1:1 verisign.com
+# 2620:74:1c::2:2 verisign.com
 
 # CleanBrowsing
+# Family Filter
 185.228.168.9 cleanbrowsing.org
 185.228.169.9 cleanbrowsing.org
 2a0d:2a00:1::2 cleanbrowsing.org
@@ -52,15 +53,15 @@
 
 # AdGuard DNS
 # Default Server
-176.103.130.130 adguard-dns.io
-176.103.130.131 adguard-dns.io
-2a00:5a60::ad1:0ff adguard-dns.io
-2a00:5a60::ad2:0ff adguard-dns.io
-# Server without filtering
 94.140.14.14 adguard-dns.io
 94.140.15.15 adguard-dns.io
 2a10:50c0::ad1:ff adguard-dns.io
 2a10:50c0::ad2:ff adguard-dns.io
+# Server without filtering
+94.140.14.140 adguard-dns.io
+94.140.14.141 adguard-dns.io
+2a10:50c0::1:ff adguard-dns.io
+2a10:50c0::2:ff adguard-dns.io
 # Family server
 94.140.14.15 adguard-dns.io
 94.140.15.16 adguard-dns.io
@@ -69,7 +70,4 @@
 
 # Alternate DNS
 44.222.89.164 alternate-dns.com
-198.101.242.72 alternate-dns.com
-23.253.163.53 alternate-dns.com
-2001:4800:780e:510:a8cf:392e:ff04:8982 alternate-dns.com
-2001:4801:7825:103:be76:4eff:fe10:2e49 alternate-dns.com
+76.223.122.150 alternate-dns.com
