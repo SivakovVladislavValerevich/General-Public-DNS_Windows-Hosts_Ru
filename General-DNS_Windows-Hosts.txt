@@ -29,14 +29,13 @@
 2a00:ab00:1233:26::51 xbox-dns.ru
 
 # OpenDNS Home
-208.67.222.222 opendns.com
-208.67.220.220 opendns.com
+# 208.67.222.222 opendns.com
+# 208.67.220.220 opendns.com
 # Family server
-208.67.222.123 opendns.com
-208.67.220.123 opendns.com
-
-2620:119:35::35 opendns.com
-2620:119:53::53 opendns.com
+# 208.67.222.123 opendns.com
+# 208.67.220.123 opendns.com
+# 2620:119:35::35 opendns.com
+# 2620:119:53::53 opendns.com
 
 # Verisign
 # 64.6.64.6 verisign.com
